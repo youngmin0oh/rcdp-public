@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "RCDP-UCB: Robust Linear Dueling Bandits with Post-serving Context"
+authors:
+  - family-names: "Oh"
+    given-names: "Youngmin"
+year: 2026
+url: "https://arxiv.org/abs/2605.01752"
+repository-code: "https://github.com/youngmin0oh/rcdp-public"
+preferred-citation:
+  type: conference-paper
+  title: "Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions"
+  authors:
+    - family-names: "Oh"
+      given-names: "Youngmin"
+  collection-title: "Proceedings of the International Conference on Machine Learning"
+  year: 2026
+  notes: "Accepted at ICML 2026 (Poster). To appear."
+  url: "https://arxiv.org/abs/2605.01752"
